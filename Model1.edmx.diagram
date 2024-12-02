@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="59cf044a0cc4466e96100d78601c1e3b" Name="Diagram1">
+        <EntityTypeShape EntityType="EgitimKampı301EfTravelDbModel.Customer" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="EgitimKampı301EfTravelDbModel.Guide" Width="1.5" PointX="0.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="EgitimKampı301EfTravelDbModel.Location" Width="1.5" PointX="3.125" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EgitimKampı301EfTravelDbModel.sysdiagrams" Width="1.5" PointX="3.125" PointY="3.875" IsExpanded="true" />
+        <AssociationConnector Association="EgitimKampı301EfTravelDbModel.FK_Location_Guide" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="EgitimKampı301EfTravelDbModel.Admin" Width="1.5" PointX="5.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
