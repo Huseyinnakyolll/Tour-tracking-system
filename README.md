@@ -56,11 +56,11 @@ Tur bilgilerini, rehberleri yönetmeyi ve temel istatistikleri görüntülemeyi 
 ![Guidepage](screenshots/Guidepage.png)
 
 ### 🏠 Homepage / Ana Sayfa
-![Homepage](screenshots/Homepage.png)
+![Homepage](screenshots/homepage.png)
 
 ### 📊 Statistics / İstatistik Sayfası
-![Statistics](screenshots/Statistics.png)
+![Statistics](screenshots/statistics.png)
 
 ### 🧭 Tourpage / Tur Sayfası
-![Tourpage](screenshots/Tourpage.png)
+![Tourpage](screenshots/tourpage.png)
 
