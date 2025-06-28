@@ -64,3 +64,7 @@ Tur bilgilerini, rehberleri yönetmeyi ve temel istatistikleri görüntülemeyi 
 ### 🧭 Tourpage / Tur Sayfası
 ![Tourpage](screenshots/tourpage.png)
 
+🧑‍💻 Developer / Geliştirici
+Hüseyin Akyol
+GitHub Profilim
+
