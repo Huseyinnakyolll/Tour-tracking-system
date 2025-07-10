@@ -8,7 +8,7 @@ Tur bilgilerini, rehberleri yönetmeyi ve temel istatistikleri görüntülemeyi 
 
 ---
 
-## 🛠️ Technologies Used / Kullanılan Teknolojiler
+##  Technologies Used / Kullanılan Teknolojiler
 
 - **Programming Language / Programlama Dili**: C#
 - **Framework**: .NET (Windows Forms)
