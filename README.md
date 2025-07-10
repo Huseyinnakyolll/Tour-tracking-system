@@ -17,27 +17,27 @@ Tur bilgilerini, rehberleri yönetmeyi ve temel istatistikleri görüntülemeyi 
 
 ---
 
-## 📋 Features / Özellikler
+##  Features / Özellikler
 
-### 🏠 Main Form / Ana Sayfa
+## Main Form / Ana Sayfa
 - Navigation between different forms  
 - Farklı formlar arasında geçiş imkanı
 
-### 🧑‍✈️ Guide Management / Rehber İşlemleri
+## Guide Management / Rehber İşlemleri
 - Add, edit, delete, and view guides  
 - Rehber ekleme, düzenleme, silme ve listeleme
 
-### 🧭 Tour List / Tur Listesi
+## Tour List / Tur Listesi
 - Display and manage available tours  
 - Mevcut turların görüntülenmesi ve yönetimi
 
-### 📊 Statistics Form / İstatistik Formu
+##  Statistics Form / İstatistik Formu
 - View summary statistics about tours and guides  
 - Turlar ve rehberlerle ilgili temel istatistiklerin görüntülenmesi
 
 ---
 
-## 🖥️ Project Type / Proje Türü
+## Project Type / Proje Türü
 
 - Desktop application with local database  
 - Yerel veritabanı kullanan masaüstü uygulama  
@@ -46,26 +46,26 @@ Tur bilgilerini, rehberleri yönetmeyi ve temel istatistikleri görüntülemeyi 
 
 ---
 
-> 🎓 This project was developed for educational purposes to practice database operations and form-based C# development.  
-> 🎓 Bu proje, veritabanı işlemleri ve form tabanlı C# geliştirmeyi öğrenmek amacıyla yapılmıştır.
+>    This project was developed for educational purposes to practice database operations and form-based C# development.  
+>    Bu proje, veritabanı işlemleri ve form tabanlı C# geliştirmeyi öğrenmek amacıyla yapılmıştır.
 
 
-## 🖼️ Screenshots / Ekran Görüntüleri
+##  Screenshots / Ekran Görüntüleri
 
-### 🧑‍✈️ Guidepage / Rehber Sayfası
+##  Guidepage / Rehber Sayfası
 ![Guidepage](screenshots/Guidepage.png)
 
-### 🏠 Homepage / Ana Sayfa
+##  Homepage / Ana Sayfa
 ![Homepage](screenshots/homepage.png)
 
-### 📊 Statistics / İstatistik Sayfası
+## Statistics / İstatistik Sayfası
 ![Statistics](screenshots/statistics.png)
 
-### 🧭 Tourpage / Tur Sayfası
+## Tourpage / Tur Sayfası
 ![Tourpage](screenshots/tourpage.png)
 
 
-## 🧑‍💻 Developer / Geliştirici
+##  Developer / Geliştirici
 
 **Hüseyin Akyol**  
 [GitHub Profilim](https://github.com/Huseyinnakyolll)
